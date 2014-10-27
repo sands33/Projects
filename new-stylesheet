@@ -1,0 +1,5 @@
+<style>
+h* {color: aqua;}
+#footer {text-align: left;}
+#img {border 2px solid black box-shadow:20px red;}
+    
