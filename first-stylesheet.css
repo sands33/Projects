@@ -36,6 +36,7 @@ a:link {
 }
 
 a:visited {color: pink}
+a:hover {color: teal}
 
 p.mopeds {
     border-style: solid;
