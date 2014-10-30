@@ -36,3 +36,27 @@ a:link {
 }
 
 /*remember a visited*/
+.moped-container{
+    margin: 20px 20px 0 0;  
+    border:5px solid #333;
+    width:600px;
+    overflow:hidden;
+}
+
+.moped-thumb img {
+    float: left;
+    clear:left;
+    width:640px;
+    height:480px;
+    border:1px solid red;
+}
+
+.moped-title {
+     float:left;   
+    margin-left:10px;
+}
+
+.moped-content {
+    float:right;
+}
+
