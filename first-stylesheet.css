@@ -1,4 +1,4 @@
-
+body {border-left 50px border-left-color: red;}
 
 
 
@@ -35,5 +35,10 @@ a:link {
     color: green;
 }
 
+a:visited {color: pink}
+a:hover {color: teal}
+
+
+}
 /*remember a visited*/
 
